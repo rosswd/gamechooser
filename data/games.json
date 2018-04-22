@@ -1,0 +1,32 @@
+{
+    "console": {
+        "ps4": [
+          "Bloodborne",
+          "Bound",
+          "The Last of Us",
+          "RIME",
+          "Until Dawn"
+        ],
+        "xbox_one": [
+            "Dead Rising 3",
+            "Halo 5: Guardians",
+            "Ryse: Son of Rome"
+        ]
+    },
+    "pc": {
+        "windows": [
+            "Hellblade: Senua's Sacrifice",
+            "Sleeping Dogs: Definitive Edition"
+        ],
+        "linux": [
+            "Hollow Knight",
+            "Rocket League",
+            "The Long Dark",
+            "XCOM 2"
+        ],
+        "macos": [
+            "Hotline Miami 2: Wrong Number",
+            "Portal 2"
+        ]
+    }
+}
